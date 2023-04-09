@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61cffe78.css",
+    "main.js": "/static/js/main.69081478.js",
+    "static/media/singapore-g8e08541d1_1920-compressed.jpg": "/static/media/singapore-g8e08541d1_1920-compressed.6f0167e59799abbe5a43.jpg",
+    "static/media/singapore-g0b04a625a_1920-compressed.jpg": "/static/media/singapore-g0b04a625a_1920-compressed.9c5ecd1475a69e5599b2.jpg",
+    "static/media/pexels-meo-fernando-3204577-compressed.jpg": "/static/media/pexels-meo-fernando-3204577-compressed.cb8b84641c02b15bfa39.jpg",
+    "static/media/pexels-quang-nguyen-vinh-14036245-compressed.jpg": "/static/media/pexels-quang-nguyen-vinh-14036245-compressed.91246c669a6ac9fe3163.jpg",
+    "static/media/singapore-g43b2e56cf_1920-compressed.jpg": "/static/media/singapore-g43b2e56cf_1920-compressed.5882809e13a02b9e1475.jpg",
+    "static/media/pexels-pixabay-262047-cropped-compressed.jpg": "/static/media/pexels-pixabay-262047-cropped-compressed.157129d364c21932a302.jpg",
+    "static/media/pexels-digital-buggu-167533-compressed.jpg": "/static/media/pexels-digital-buggu-167533-compressed.1a6a3c5afba49c2ed2e9.jpg",
+    "static/media/ko-olina-ga4b5c6edd_1920-cropped-compressed.jpg": "/static/media/ko-olina-ga4b5c6edd_1920-cropped-compressed.9d3d0ec0e62d1936b011.jpg",
+    "static/media/imageedit_1_9536050556-cropped-compressed.jpg": "/static/media/imageedit_1_9536050556-cropped-compressed.e563e69e84e27d6507c9.jpg",
+    "static/media/peignot.regular.ttf": "/static/media/peignot.regular.3e9d906d826f93666081.ttf",
+    "static/media/bed-g1bef141f6_1920-cropped-compressed.jpg": "/static/media/bed-g1bef141f6_1920-cropped-compressed.d5d50da1f2808d823496.jpg",
+    "index.html": "/index.html",
+    "static/media/bars-solid.svg": "/static/media/bars-solid.f6f74babcc4b71a07177e4bd12b0654e.svg",
+    "static/media/xmark-solid.svg": "/static/media/xmark-solid.cbb45db2aa92275222fdcc759c0d5a81.svg",
+    "main.61cffe78.css.map": "/static/css/main.61cffe78.css.map",
+    "main.69081478.js.map": "/static/js/main.69081478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61cffe78.css",
+    "static/js/main.69081478.js"
+  ]
+}
